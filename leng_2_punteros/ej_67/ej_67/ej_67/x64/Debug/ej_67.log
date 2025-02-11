@@ -1,0 +1,12 @@
+﻿  ej_67.c
+D:\BorjaBolado\Programacion C\Eje_punteros_C\lengs2\ej_67\ej_67\ej_67.c(29,9): warning C4129: “N”: secuencia de escape de caracteres no reconocida
+D:\BorjaBolado\Programacion C\Eje_punteros_C\lengs2\ej_67\ej_67\ej_67.c(33,9): warning C4129: “N”: secuencia de escape de caracteres no reconocida
+D:\BorjaBolado\Programacion C\Eje_punteros_C\lengs2\ej_67\ej_67\ej_67.c(39,9): warning C4129: “m”: secuencia de escape de caracteres no reconocida
+D:\BorjaBolado\Programacion C\Eje_punteros_C\lengs2\ej_67\ej_67\ej_67.c(45,6): error C2086: 'int a': nueva definición
+D:\BorjaBolado\Programacion C\Eje_punteros_C\lengs2\ej_67\ej_67\ej_67.c(49,6): error C2086: 'int b': nueva definición
+D:\BorjaBolado\Programacion C\Eje_punteros_C\lengs2\ej_67\ej_67\ej_67.c(52,2): warning C4013: 'cambioValores' sin definir; se supone que extern devuelve como resultado int
+D:\BorjaBolado\Programacion C\Eje_punteros_C\lengs2\ej_67\ej_67\ej_67.c(76,9): warning C4477: 'printf' : la cadena de formato '%d' requiere un argumento de tipo 'int', pero el argumento variádico 1 tiene el tipo 'int *'
+D:\BorjaBolado\Programacion C\Eje_punteros_C\lengs2\ej_67\ej_67\ej_67.c(76,9): warning C4313: 'printf': '%d' en la cadena de formato entra en conflicto con el argumento 1 de tipo 'int *'
+D:\BorjaBolado\Programacion C\Eje_punteros_C\lengs2\ej_67\ej_67\ej_67.c(76,9): warning C4477: 'printf' : la cadena de formato '%d' requiere un argumento de tipo 'int', pero el argumento variádico 2 tiene el tipo 'int *'
+D:\BorjaBolado\Programacion C\Eje_punteros_C\lengs2\ej_67\ej_67\ej_67.c(76,9): warning C4313: 'printf': '%d' en la cadena de formato entra en conflicto con el argumento 2 de tipo 'int *'
+D:\BorjaBolado\Programacion C\Eje_punteros_C\lengs2\ej_67\ej_67\ej_67.c(73,6): warning C4047: 'inicializando': 'int' es distinto en los niveles de direccionamiento indirecto de 'int *'
