@@ -1,0 +1,8 @@
+﻿  ej_71.c
+C:\Users\ASUS\Desktop\PROGRAMACION C++\punteros_c\leng_2_punteros\ej_71\ej_71\ej_71.c(17,12): warning C4047: '=': 'int' es distinto en los niveles de direccionamiento indirecto de 'int *'
+C:\Users\ASUS\Desktop\PROGRAMACION C++\punteros_c\leng_2_punteros\ej_71\ej_71\ej_71.c(21,12): warning C4047: '=': 'int' es distinto en los niveles de direccionamiento indirecto de 'int *'
+C:\Users\ASUS\Desktop\PROGRAMACION C++\punteros_c\leng_2_punteros\ej_71\ej_71\ej_71.c(47,32): warning C4047: 'función': 'int *' es distinto en los niveles de direccionamiento indirecto de 'int **'
+C:\Users\ASUS\Desktop\PROGRAMACION C++\punteros_c\leng_2_punteros\ej_71\ej_71\ej_71.c(47,32): warning C4024: 'calcular': tipos distintos para el parámetro formal y el parámetro real 4
+C:\Users\ASUS\Desktop\PROGRAMACION C++\punteros_c\leng_2_punteros\ej_71\ej_71\ej_71.c(47,51): warning C4047: 'función': 'int *' es distinto en los niveles de direccionamiento indirecto de 'int **'
+C:\Users\ASUS\Desktop\PROGRAMACION C++\punteros_c\leng_2_punteros\ej_71\ej_71\ej_71.c(47,51): warning C4024: 'calcular': tipos distintos para el parámetro formal y el parámetro real 6
+  ej_71.vcxproj -> C:\Users\ASUS\Desktop\PROGRAMACION C++\punteros_c\leng_2_punteros\ej_71\x64\Debug\ej_71.exe

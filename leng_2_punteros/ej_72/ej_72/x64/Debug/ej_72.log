@@ -1,0 +1,4 @@
+﻿  ej_72.c
+C:\Users\ASUS\Desktop\PROGRAMACION C++\punteros_c\leng_2_punteros\ej_72\ej_72\ej_72.c(21,18): warning C4244: '=': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\ASUS\Desktop\PROGRAMACION C++\punteros_c\leng_2_punteros\ej_72\ej_72\ej_72.c(22,18): warning C4244: '=': conversión de 'int' a 'float'; posible pérdida de datos
+  ej_72.vcxproj -> C:\Users\ASUS\Desktop\PROGRAMACION C++\punteros_c\leng_2_punteros\ej_72\x64\Debug\ej_72.exe
