@@ -1,0 +1,4 @@
+﻿  ej_1.c
+C:\Users\ASUS\Desktop\PROGRAMACION C++\punteros_c\punteros_1\ej_1\ej_1\ej_1.c(50,2): warning C4013: 'gets' sin definir; se supone que extern devuelve como resultado int
+C:\Users\ASUS\Desktop\PROGRAMACION C++\punteros_c\punteros_1\ej_1\ej_1\ej_1.c(58,19): warning C4267: 'inicializando': conversión de 'size_t' a 'int'; posible pérdida de datos
+  ej_1.vcxproj -> C:\Users\ASUS\Desktop\PROGRAMACION C++\punteros_c\punteros_1\ej_1\x64\Debug\ej_1.exe
